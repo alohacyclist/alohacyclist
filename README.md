@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alohacyclist
 - 👀 I’m interested in programming (obviously) and cycling
 - 🌱 I’m currently learning web-dev basics (HTML, CSS, JS)
-- 💞️ I’m looking to collaborate on -/-\-
+- 💞️ I’m looking to collaborate on -/-
 - 📫 How to reach me alohacyclist@icloud.com
 
 <!---
