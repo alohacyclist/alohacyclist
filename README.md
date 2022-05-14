@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alohacyclist
-- 👀 I’m interested in programming (obviously) and cycling
-- 🌱 I’m currently learning web-dev basics (HTML, CSS, JS)
-- 💞️ I’m looking to collaborate on -/-
+- 👀 if(!coding) cycling🚴🏻‍♂️
+- 🌱 I graduated the Ironhack Web-Dev Bootcamp
 - 📫 How to reach me alohacyclist@icloud.com
+- 💼 LinkedIn: https://www.linkedin.com/in/alohacyclist/
 
 <!---
 alohacyclist/alohacyclist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
